@@ -115,7 +115,7 @@ Nirbhay Kachhadiya
 
 Python Developer Intern
 
-🎓 Course: BCA (Bachelor of Computer Applications)
+🎓 Course: BCA (Bachelor of Computer Applications)<br>
 🏫 College: Silver Oak College of Computer Application
 
 <a href="https://github.com/nirbhay-kachhadiya"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
