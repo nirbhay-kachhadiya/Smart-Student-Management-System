@@ -60,7 +60,7 @@ Smart-Student-Management-System/
 ├── student.db             # 🗄️ Database (Auto-generated Storage)
 └── README.md              # 📄 Documentation
 
-👨‍💻 Developer Info
+```👨‍💻 Developer Info
 <div align="center">
 
 Nirbhay Kachhadiya
