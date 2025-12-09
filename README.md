@@ -42,14 +42,15 @@ This project demonstrates real-world usage of Python with database connectivity.
 
 ---
 
-## 📂 Project Structure
+### Project Structure
+```text
 Smart-Student-Management-System/
 │
-├── main.py # Main menu-driven application
-├── database.py # Database connection and queries
-├── view_student.py # Display student records
-├── student.db # SQLite database file
-└── README.md # Project documentation
+├── main.py                # Main menu-driven application
+├── database.py            # Database connection and queries
+├── view_student.py        # Display student records
+├── student.db             # SQLite database file
+└── README.md              # Project documentation
 
 ---
 
