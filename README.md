@@ -87,22 +87,22 @@ python main.py
 
 ✅ The student.db file will be created automatically.
 
-📂 Project Structure
-Smart-Student-Management-System/
+  ## 📂 Project Structure
+
+    ```Smart-Student-Management-System/
 │
 ├── main.py          # 🚀 Main Entry Point (Menu Logic)
 ├── database.py      # ⚙️ Database Connection & Queries
 ├── view_student.py  # 📊 Data Display Logic
 ├── student.db       # 🗄️ SQLite Database (Auto-generated)
 └── README.md        # 📄 Project Documentation
-
-🎯 Learning Outcomes
+**  ## 🎯 Learning Outcomes**
 
 SQLite database integration with Python
 
 CRUD operations using SQL
 
-Modular programming structure
+Modular programming structure``
 
 CLI-based application design
 
