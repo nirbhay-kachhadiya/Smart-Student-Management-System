@@ -108,8 +108,9 @@ CLI-based application design
 
 Error handling & input validation
 
-👨‍💻 Developer
+
 <div align="center">
+👨‍💻 Developer
 Nirbhay Kachhadiya
 
 Python Developer Intern
