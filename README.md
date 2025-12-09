@@ -74,3 +74,53 @@ This system replaces manual record keeping with a **persistent, searchable, and 
    ```bash
    git clone https://github.com/nirbhay-kachhadiya/Smart-Student-Management-System.git
 Project Overview
+
+Navigate to project folder
+
+cd Smart-Student-Management-System
+
+
+Run the application
+
+python main.py
+
+
+✅ The student.db file will be created automatically.
+
+📂 Project Structure
+Smart-Student-Management-System/
+│
+├── main.py          # 🚀 Main Entry Point (Menu Logic)
+├── database.py      # ⚙️ Database Connection & Queries
+├── view_student.py  # 📊 Data Display Logic
+├── student.db       # 🗄️ SQLite Database (Auto-generated)
+└── README.md        # 📄 Project Documentation
+
+🎯 Learning Outcomes
+
+SQLite database integration with Python
+
+CRUD operations using SQL
+
+Modular programming structure
+
+CLI-based application design
+
+Error handling & input validation
+
+👨‍💻 Developer
+<div align="center">
+Nirbhay Kachhadiya
+
+Python Developer Intern
+
+🎓 Course: BCA (Bachelor of Computer Applications)
+🏫 College: Silver Oak College of Computer Application
+
+<a href="https://github.com/nirbhay-kachhadiya"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<br/><br/>
+
+📌 This project was developed for educational purposes to demonstrate backend logic and database integration.
+
+</div>
