@@ -60,3 +60,18 @@ Smart-Student-Management-System/
 ├── student.db             # 🗄️ Database (Auto-generated Storage)
 └── README.md              # 📄 Documentation
 
+👨‍💻 Developer Info
+<div align="center">
+
+Nirbhay Kachhadiya
+Python Developer Intern
+
+🎓 Course: BCA (Bachelor of Computer Applications)
+
+🏫 College: Silver Oak College of Computer Application
+
+<p> <a href="https://www.google.com/search?q=https://github.com/nirbhay-kachhadiya"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" /> </a> </p>
+
+This project was developed for educational purposes to demonstrate backend logic and database integration.
+
+</div>
