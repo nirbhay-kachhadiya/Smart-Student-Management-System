@@ -73,7 +73,8 @@ This system replaces manual record keeping with a **persistent, searchable, and 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/nirbhay-kachhadiya/Smart-Student-Management-System.git
-Project Overview
+
+**Project Overview**
 
 Navigate to project folder
 
@@ -96,6 +97,8 @@ python main.py
 ├── view_student.py  # 📊 Data Display Logic
 ├── student.db       # 🗄️ SQLite Database (Auto-generated)
 └── README.md        # 📄 Project Documentation
+
+
 **  ## 🎯 Learning Outcomes**
 
 SQLite database integration with Python
