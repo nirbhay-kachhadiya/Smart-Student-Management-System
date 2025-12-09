@@ -60,7 +60,9 @@ Smart-Student-Management-System/
 ├── student.db             # 🗄️ Database (Auto-generated Storage)
 └── README.md              # 📄 Documentation
 
-```👨‍💻 Developer Info
+---
+
+👨‍💻 Developer Info
 <div align="center">
 
 Nirbhay Kachhadiya
@@ -75,4 +77,5 @@ Python Developer Intern
 This project was developed for educational purposes to demonstrate backend logic and database integration.
 
 </div>
-```
+
+---
