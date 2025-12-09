@@ -73,8 +73,7 @@ This system replaces manual record keeping with a **persistent, searchable, and 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/nirbhay-kachhadiya/Smart-Student-Management-System.git
-
-**Project Overview**
+Project Overview
 
 Navigate to project folder
 
